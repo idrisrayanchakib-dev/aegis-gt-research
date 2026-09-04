@@ -1,0 +1,8 @@
+# Heavy data & model artifacts
+*.parquet
+*.pkl
+*.pt
+*.tmp
+
+# Python cache
+__pycache__/
